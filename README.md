@@ -1,2 +1,0 @@
-# ersy
-Created with CodeSandbox
